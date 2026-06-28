@@ -76,7 +76,7 @@ StudentGradeManager/
 
 ## 7. Git仓库地址
 
-https://github.com/[username]/StudentGradeManager
+https://github.com/QH-AI/StudentGradeManager
 
 ## 8. 迭代计划
 
